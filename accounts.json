@@ -6,7 +6,7 @@
      "description" : "Cuenta de ahorros Davivienda",
      "type" : "Ahorros",
      "status" : "activa",
-     "balance": "2392000.0000",
+     "balance": "2392000.0000"
    },
    {
      "id" : "2",
@@ -15,7 +15,7 @@
      "description" : "Cuenta de ahorros Davivienda",
      "type" : "Ahorros",
      "status" : "activa",
-     "balance": "7392000.0000",
+     "balance": "7392000.0000"
    },
    {
      "id" : "3",
@@ -24,7 +24,7 @@
      "description" : "Cuenta de ahorros Davivienda",
      "type" : "Ahorros",
      "status" : "activa",
-     "balance": "5392000.0000",
+     "balance": "5392000.0000"
    },
    {
      "id" : "4",
@@ -33,7 +33,7 @@
      "description" : "Cuenta de ahorros Davivienda",
      "type" : "Ahorros",
      "status" : "activa",
-     "balance": "23452000.0000",
+     "balance": "23452000.0000"
    },
    {
      "id" : "5",
@@ -42,7 +42,7 @@
      "description" : "Cuenta Corriente Davivienda",
      "type" : "Corriente",
      "status" : "activa",
-     "balance": "298392000.0000",
+     "balance": "298392000.0000"
    },
    {
      "id" : "6",
@@ -51,7 +51,7 @@
      "description" : "Cuenta de ahorros Davivienda",
      "type" : "Ahorros",
      "status" : "activa",
-     "balance": "52892000.0000",
+     "balance": "52892000.0000"
    },
    {
      "id" : "7",
@@ -60,7 +60,7 @@
      "description" : "Cuenta de ahorros Davivienda",
      "type" : "Ahorros",
      "status" : "activa",
-     "balance": "985000.0000",
+     "balance": "985000.0000"
    },
    {
      "id" : "8",
@@ -69,7 +69,7 @@
      "description" : "Cuenta Corriente Davivienda",
      "type" : "Corriente",
      "status" : "activa",
-     "balance": "9845000.0000",
+     "balance": "9845000.0000"
    },
    {
      "id" : "9",
@@ -78,7 +78,7 @@
      "description" : "Cuenta de ahorros Davivienda",
      "type" : "Ahorros",
      "status" : "activa",
-     "balance": "1355000.0000",
+     "balance": "1355000.0000"
    },
    {
      "id" : "10",
@@ -87,6 +87,6 @@
      "description" : "Cuenta Corriente Davivienda",
      "type" : "Corriente",
      "status" : "activa",
-     "balance": "66546000.0000",
+     "balance": "66546000.0000"
    }
 ]
