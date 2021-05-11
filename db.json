@@ -43,50 +43,5 @@
      "type" : "Corriente",
      "status" : "activa",
      "balance": "298392000.0000"
-   },
-   {
-     "id" : "6",
-     "name" : "Davivienda",
-     "number" : "430-658-901-128",
-     "description" : "Cuenta de ahorros Davivienda",
-     "type" : "Ahorros",
-     "status" : "activa",
-     "balance": "52892000.0000"
-   },
-   {
-     "id" : "7",
-     "name" : "Davivienda",
-     "number" : "430-658-901-129",
-     "description" : "Cuenta de ahorros Davivienda",
-     "type" : "Ahorros",
-     "status" : "activa",
-     "balance": "985000.0000"
-   },
-   {
-     "id" : "8",
-     "name" : "Davivienda",
-     "number" : "430-658-901-130",
-     "description" : "Cuenta Corriente Davivienda",
-     "type" : "Corriente",
-     "status" : "activa",
-     "balance": "9845000.0000"
-   },
-   {
-     "id" : "9",
-     "name" : "Davivienda",
-     "number" : "430-658-901-131",
-     "description" : "Cuenta de ahorros Davivienda",
-     "type" : "Ahorros",
-     "status" : "activa",
-     "balance": "1355000.0000"
-   },
-   {
-     "id" : "10",
-     "name" : "Davivienda",
-     "number" : "430-658-901-132",
-     "description" : "Cuenta Corriente Davivienda",
-     "type" : "Corriente",
-     "status" : "activa",
-     "balance": "66546000.0000"
    }
-]
+ ]
