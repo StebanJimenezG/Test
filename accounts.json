@@ -1,39 +1,38 @@
 {
 	"accounts": [
-		{
-			"name": "Davivienda",
-			"number": "430-658-901-123",
-			"type": "Ahorros",
-			"status": "activa",
-			"balance": "2392000.0000"
-		},
-		{
-			"name": "Davivienda",
-			"number": "430-658-901-124",
-			"type": "Ahorros",
-			"status": "inactiva",
-			"balance": "7392000.0000"
-		},
-		{
-			"name": "Davivienda",
-			"number": "430-658-901-125",
-			"type": "Ahorros",
-			"status": "activa",
-			"balance": "5392000.0000"
-		},
-		{
-			"name": "Davivienda",
-			"number": "430-658-901-126",
-			"type": "Ahorros",
-			"status": "inactiva",
-			"balance": "23452000.0000"
-		},
-		{
-			"name": "5",
-			"number": "430-658-901-127",
-			"type": "Corriente",
-			"status": "activa",
-			"balance": "298392000.0000"
-		}
-	]
-}
+	{
+		"name": "Davivienda MAESTRO",
+		"number": "430-658-901-123",
+		"type": "Ahorros",
+		"status": "activa",
+		"balance": "2392000.0000"
+	},
+	{
+		"name": "Davivienda VISA",
+		"number": "430-658-901-124",
+		"type": "Ahorros",
+		"status": "inactiva",
+		"balance": "7392000.0000"
+	},
+	{
+		"name": "CUENTA DAV 1",
+		"number": "430-658-901-125",
+		"type": "Ahorros",
+		"status": "activa",
+		"balance": "5392000.0000"
+	},
+	{
+		"name": "Davivienda Nomina",
+		"number": "430-658-901-126",
+		"type": "Ahorros",
+		"status": "inactiva",
+		"balance": "23452000.0000"
+	},
+	{
+		"name": "Daviviendo Pensión",
+		"number": "430-658-901-127",
+		"type": "Corriente",
+		"status": "activa",
+		"balance": "298392000.0000"
+	}
+]
